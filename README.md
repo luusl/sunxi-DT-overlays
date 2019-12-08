@@ -6,7 +6,7 @@
 
 ## Version
 
-As of now overlays in this repository should work with the kernel version **4.14.x**.
+As of now overlays in this repository should work with the kernel version **5.0.x**.
 They may need changes/adjustments to work on older versions and eventually they will be updated to newer kernel versions.
 
 ## Technical info
